@@ -4,7 +4,7 @@ A sleek and responsive React-based admin dashboard built using Syncfusion UI com
 
 ## 🚀 Live Demo
 
-Check out the deployed project 👉 [Live Site](https://your-vercel-app-url.vercel.app)
+Check out the deployed project 👉 [Live Site](https://react-dashboard-vlal.vercel.app/)
 
 ---
 
