@@ -12,11 +12,6 @@ Check out the deployed project 👉 [Live Site](https://your-vercel-app-url.verc
 
 ### 💻 Full Dashboard View
 
-![Dashboard](dashboard/src/data/Screenshot (15).png)
-
-### 📱 Responsive Mobile View
-
-![Graph](dashboard\src\data\Screenshot (16).png)
 
 ---
 
